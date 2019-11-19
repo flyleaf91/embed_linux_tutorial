@@ -10,5 +10,6 @@ i.MX Linux开发实战指南
    :maxdepth: 2
 
    foreword
+   linux_basis/index
 
 
