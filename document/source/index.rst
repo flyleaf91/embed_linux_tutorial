@@ -9,5 +9,6 @@ i.MX Linux开发实战指南
 .. toctree::
    :maxdepth: 2
 
+   foreword
 
 
