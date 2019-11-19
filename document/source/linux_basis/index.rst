@@ -15,5 +15,6 @@
    :maxdepth: 2
 
    why_linux
+   i.mx_serials
 
 
