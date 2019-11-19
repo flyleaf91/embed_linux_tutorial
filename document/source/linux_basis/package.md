@@ -191,17 +191,17 @@ install安装软件时，可注意到它是从Ubuntu官方源地址下载的，�
 在弹出的界面选择“其他站点”-\>“mirrors.tuna.tsinghua.edu.cn”（清华大学镜像源）或“mirrors.aliyun.com”（阿里云镜像源）网址，如图
 8‑15和图 8‑16。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\TR\~{H))CP5DCVLG]M18Y}8M.png](media/e4526c81f49fdc6ae92537d7b24b0e40.png)
+![](media/e4526c81f49fdc6ae92537d7b24b0e40.png)
 
 图 8‑14 在其他站点
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\IE)O]1GE%Z437G8}AD5OV\~D.png](media/7dc52eb7c365b91050e3de662591b080.png)
+![](media/7dc52eb7c365b91050e3de662591b080.png)
 
 图 8‑15 使用清华大学镜像源
 
 选择后关闭该窗口它会提示更新源，点击“重新载入”即可，见图 8‑16。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\_GGV\$\@TE\$(6T]{4\`3T\$F)91.png](media/e9545ed80c69a7c640f5ff6d7b6f2861.png)
+![](media/e9545ed80c69a7c640f5ff6d7b6f2861.png)
 
 图 8‑16 更新软件源列表
 
@@ -213,7 +213,7 @@ install安装软件时，可注意到它是从Ubuntu官方源地址下载的，�
 
 cat /etc/apt/sources.list
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\WWZ3621Z4CQGDN%H\~(\`W)65.png](media/d186ecb8df54dd1f684423b0b1a80219.png)
+![](media/d186ecb8df54dd1f684423b0b1a80219.png)
 
 图 8‑17 使用cat查看/etc/apt/sources.list的内容
 
@@ -317,7 +317,7 @@ update命令会扫描每一个软件源地址，并为该软件源地址所具�
 8‑21中，可以看到我们上面添加的中国科技大学的镜像源地址，在sources.list文件中选择只下载main类型的软件，因此在apt-get
 update的过程中，也只会去获取main类型的软件包。此外，图中的amd64是一种64位的电脑处理器架构，又称“x86-64”或“x64”；i386则是作为对Intel（英特尔）32位微处理器的统称。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\65GEA%(0EI)F(SJ8D_YTA_3.png](media/a296a6374f2a4403aa5d9ad9920eef47.png)
+![](media/a296a6374f2a4403aa5d9ad9920eef47.png)
 
 图 8‑22 本地索引文件
 
@@ -418,6 +418,6 @@ sudo apt install vim
 可能会出现各种情况，如进入到了Vim的编辑模式，输入了些内容，但不知道如何保存或退出，这些我们将在《第9章
 使用编辑器》章节中介绍，现在我们直接点击终端右上角的关闭按钮强制退出即可。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\UUZS\@\$X[V7_C%81}4V)R[MM.png](media/fc4d253053d0cfd0a12dd8f0cf6192bf.png)
+![](media/fc4d253053d0cfd0a12dd8f0cf6192bf.png)
 
 图 8‑27 强制退出
