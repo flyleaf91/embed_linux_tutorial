@@ -18,5 +18,6 @@
    i.mx_serials
    linux_brief
    install_ubuntu
+   linux_directory
 
 
