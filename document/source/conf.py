@@ -29,7 +29,9 @@ master_doc = 'index'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark']
+extensions = ['recommonmark',
+  'sphinx_markdown_tables',
+]
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
