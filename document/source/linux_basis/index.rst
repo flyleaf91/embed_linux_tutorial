@@ -21,5 +21,7 @@
    install_ubuntu
    linux_directory
    usergroup
+   linux_shell
+   package
 
 

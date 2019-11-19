@@ -173,7 +173,7 @@ Linux下系统本身就支持数不清的命令，不同的命令又带不同的
 
 ls --help
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\S%0ZJL1]ZN(D06\$QR7[)ELH.png](media/2664ee56e98565512d1d962e4308a5d9.png)
+![](media/2664ee56e98565512d1d962e4308a5d9.png)
 
 图 7‑9 --help参数
 
@@ -181,7 +181,7 @@ ls --help
 
 ls –a
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\\`)K6ZYU1}L\~HPVQCPABGW%2.png](media/313278dc47244c53e32fa28901b1e186.png)
+![](media/313278dc47244c53e32fa28901b1e186.png)
 
 图 7‑10 列出隐藏文件
 
@@ -221,7 +221,7 @@ ls –a
 如果对命令只记得大概，也可以大致地乱敲一通，如果运气好，按下回车后如果终端找不到这个命令时它会输出类似命令的提示，我们可以根据提示来了解。我们输入“whihc”回车后如图
 7‑14，它提示我们找不到“whihc”命令，并询问我们想输入的是不是“which”。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\JPD\$1LFH]PD])8TW{8O%{\@G.png](media/e77039be8af89c92edeb3ca5bdd6ad70.png)
+![](media/e77039be8af89c92edeb3ca5bdd6ad70.png)
 
 图 7‑14 whihc的提示
 
@@ -277,7 +277,7 @@ which pwd \# 查看使用的是哪个pwd命令
 
 which cd \# 查看使用的是哪个cd命令
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\H{O_1(5M8D3\`TCK1G)RJKRJ.png](media/db70ee422bd1268c5f598adaf1cff75d.png)
+![](media/db70ee422bd1268c5f598adaf1cff75d.png)
 
 图 7‑18 查看命令的路径
 
@@ -290,7 +290,7 @@ cd命令没有输出，因为cd命令是Shell自己内部的程序。
 
 echo \$PATH \# echo是输出命令，而“\$PATH”是一个变量，表示输出变量内容
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\[_6{_9PTGR81O6CRH%XP2UH.png](media/da7c484bbcbf572d2649e2c5f0a34951.png)
+![](media/da7c484bbcbf572d2649e2c5f0a34951.png)
 
 图 7‑19 打印PATH环境变量
 
@@ -356,7 +356,7 @@ cd embedfire \# 切换至embedfire目录（请把embedfire换成自己的用户�
 
 注意以上命令中，命令名cd与路径名之间是有空格的，实际上包括以后使用的所有命令中，命令名，命令选项以及命令参数之间都是要有空格分隔开的。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\5BQJT41\~(2Y\`0O_TGW6Y8V7.png](media/050d40835ef3ba6c4ee1fa36d0ef5889.png)
+![](media/050d40835ef3ba6c4ee1fa36d0ef5889.png)
 
 图 7‑20 cd命令实验
 
@@ -390,7 +390,7 @@ ls \# 列出当前目录的内容，发现other目录
 
 ls other \# 列出other目录的内容，发现test目录
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\6Y47SNX7%\@\$DOL_{]EQSTCG.png](media/44dce2b4794511fede7a35a0ef57864b.png)
+![](media/44dce2b4794511fede7a35a0ef57864b.png)
 
 图 7‑21 mkdir命令实验
 
@@ -413,7 +413,7 @@ ls \# 显示当前目录下的内容
 使用touch命令，新建一个helloworld的文件，然后使用ls命令来查看文件是否被创建，执行结果如图
 7‑22所示。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\6]V7KQ0{I\~[T3G2{7VEGNCA.png](media/79e43f31210c8b2d85a4366b4c762f2c.png)
+![](media/79e43f31210c8b2d85a4366b4c762f2c.png)
 
 图 7‑22 touch指令
 
@@ -529,7 +529,7 @@ cat 文件名
 
 cat test123.txt
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\E5C8CJ2\$SSR\`P[DYE\~N9\~E7.png](media/208b8ea9940edae3ef7c8bb77d4483d6.png)
+![](media/208b8ea9940edae3ef7c8bb77d4483d6.png)
 
 图 7‑27查看文件内容
 
@@ -559,7 +559,7 @@ echo \$PATH \# 打印环境变量PATH
 
 echo “\$PATH” \# 打印环境变量PATH
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\}\`PD2A]B]R]P3I\@K\$W4\`I7D.png](media/ce0a7f02ae7079c12bb5b9d016b41dbd.png)
+![](media/ce0a7f02ae7079c12bb5b9d016b41dbd.png)
 
 图 7‑28 使用echo打印字符串或变量
 
@@ -595,7 +595,7 @@ ls \> file.txt \# 把ls命令的输出重定向至file.txt文件
 
 cat file.txt \# 查看file.txt文件的内容
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\1EB%Q)DO(Y02\@{6ZS\`RG21T.png](media/b72f2787a2f0f03681544e6ba7f0c1ec.png)
+![](media/b72f2787a2f0f03681544e6ba7f0c1ec.png)
 
 图 7‑29 输出重定向到文件
 
@@ -623,7 +623,7 @@ rmdir testdir \# 删除testdir目录
 rmdir -p other/test \#
 删除other/test目录，若删除后other为空，把other目录也删除掉
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\TR39G0\`HBPAJA_]\$\$X%LB(W.png](media/617eda6c360941ee64f71c8fc702e37c.png)
+![](media/617eda6c360941ee64f71c8fc702e37c.png)
 
 图 7‑30 rmdir命令实验
 
@@ -665,7 +665,7 @@ ls \#列出内容
 先结合前面学习的mkdir和touch命令，在当前目录创建一个ABC目录，里面包含了一个子目录test还有a.txt，b.txt，
 c.txt，d.txt，执行结果如图 7‑31所示。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\4Y28]\~P\`_35{JX(4LI6AD\~1.png](media/a7172855e5fb2d73326069ac90c429e3.png)
+![](media/a7172855e5fb2d73326069ac90c429e3.png)
 
 图 7‑31 创建文件
 
@@ -680,7 +680,7 @@ rm –i c.txt d.txt \#询问式删除c.txt d.txt
 执行上面两条命令的其中一条都可以完成删除任务。当带有参数i时，则会有询问是否删除文件，如果是，输入y；反之，则输入n。如图
 7‑32所示，直接删除了a.txt，b.txt。使用询问式删除时，删除了c.txt，保留了d.txt文件。
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\3\@LUZ[S]\~UG]VD(HZ\$R_2\~4.png](media/c26cf814030d79651bc7886b906d4e07.png)
+![](media/c26cf814030d79651bc7886b906d4e07.png)
 
 图 7‑32 删除文件测试
 
@@ -690,7 +690,7 @@ rm –i c.txt d.txt \#询问式删除c.txt d.txt
 
 rm –r ABC/
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\MI%LHIZ95TC2M_S]CJ)W]F0.png](media/ebc81606d09e87c6d37585ce9c126a1f.png)
+![](media/ebc81606d09e87c6d37585ce9c126a1f.png)
 
 图 7‑33删除非空目录
 
@@ -704,7 +704,7 @@ rm a.txt
 
 rm –f a.txt
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\(8IIDVMR%\$YTCYYWJE\${BAJ.png](media/7ca18d530ccb682d24d41b8badae1159.png)
+![](media/7ca18d530ccb682d24d41b8badae1159.png)
 
 图 7‑34 使用-f选项的差异
 
@@ -781,7 +781,7 @@ man [要查询的内容]
 
 man ls
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\C5F]X28O3_1N9VKFWWZ819A.png](media/8298a187493411a8fbd9330a70e05f3e.png)
+![](media/8298a187493411a8fbd9330a70e05f3e.png)
 
 图 7‑36 man中的帮助说明
 
@@ -793,7 +793,7 @@ man ls
 
 man man
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\QV6ZLF%[HTUR{I9%_J4V72Y.png](media/7d135a50684e9fb76c9ab9c67fdd2af8.png)
+![](media/7d135a50684e9fb76c9ab9c67fdd2af8.png)
 
 图 7‑37 man man指令
 
@@ -804,11 +804,11 @@ man fork
 
 man printf
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\\`9Y5Q%_J5RE{X[9CZ8LD\@69.png](media/0ed71f1ae028be857310fe31683bc7c2.png)
+![](media/0ed71f1ae028be857310fe31683bc7c2.png)
 
 图 7‑38 fork函数的帮助说明
 
-![C:\\Users\\flyleaf\\AppData\\Roaming\\Tencent\\Users\\772406599\\QQ\\WinTemp\\RichOle\\\~ZN7M7]]\@P}L5\`1}(Q\`\`PZE.png](media/d9382114b754deecce312e70511252e3.png)
+![](media/d9382114b754deecce312e70511252e3.png)
 
 图 7‑39 printf函数的帮助说明
 
@@ -834,23 +834,25 @@ man open
 7‑37中的man
 man命令输出中可看到“库调用”属于第3章，而“系统调用”是属于第2章，所以使用man命令时，我们通过“-s”选项指定它搜索的章节号：
 
-\#通过-s指定搜索章节的内容
+```shell
+#通过-s指定搜索章节的内容
 
-\#man手册的章节3是“库调用”相关的函数说明
+#man手册的章节3是“库调用”相关的函数说明
 
 man -s 3 printf
 
-\#可以省略-s，使用以下命令是等价的
+#可以省略-s，使用以下命令是等价的
 
 man 3 printf
 
-\#man手册的章节2是“系统调用”相关的函数说明
+#man手册的章节2是“系统调用”相关的函数说明
 
 man -s 2 open
 
-\#可以省略-s，使用以下命令是等价的
+#可以省略-s，使用以下命令是等价的
 
 man 2 open
+```
 
 ![](media/5cb66c9072d5b0ac46a721f7dfdfbeca.png)
 
