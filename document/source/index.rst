@@ -8,9 +8,13 @@ i.MX Linux开发实战指南
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
    foreword
    linux_basis/index
+..   linux_basis/why_linux
+..   linux_basis/i.mx_serials
+..   linux_basis/linux_brief
+..   linux_basis/install_ubuntu
+..   linux_basis/linux_directory
 
 

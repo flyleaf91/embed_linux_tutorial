@@ -13,6 +13,7 @@
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
 
    why_linux
    i.mx_serials
