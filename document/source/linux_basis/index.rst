@@ -20,5 +20,6 @@
    linux_brief
    install_ubuntu
    linux_directory
+   usergroup
 
 
