@@ -17,5 +17,6 @@
    why_linux
    i.mx_serials
    linux_brief
+   install_ubuntu
 
 
